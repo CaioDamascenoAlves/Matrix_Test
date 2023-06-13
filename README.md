@@ -43,5 +43,4 @@ Se desejar adicionar ou modificar os testes existentes, abra o arquivo `matrix_t
 
 Os testes de unidade são uma parte importante do processo de desenvolvimento de software, permitindo verificar a corretude do código e identificar possíveis erros e problemas. Com o PyUnit, você pode escrever testes automatizados para suas funções e classes Python, garantindo que elas funcionem conforme o esperado.
 
-Espero que este guia tenha sido útil para você executar os testes de unidade usando o PyUnit. Se você tiver mais dúvidas ou precisar de assistência adicional, não hesite em entrar em contato.
 
